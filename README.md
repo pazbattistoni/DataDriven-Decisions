@@ -1,0 +1,1 @@
+Realizar una segmentación de valor del cliente (RFM) e identificar los productos más rentables de la empresa e-commerce [Nombre del Dataset] para proponer dos acciones de marketing enfocadas en la retención.

@@ -4,7 +4,6 @@ The purpose of this project is to perform a customer value segmentation (RFM) an
 We transformed the raw transaction log into a customer-centric DataFrame (`rfm_df`) using Recency, Frequency, and Monetary (RFM) metrics. Customers were then scored (1-5) and grouped into actionable business segments.
 
 ### Key Finding: Customer Segment Distribution
-* grafico de barras *  
 ![Customer Segment Distribution](notebooks/Customer_Segment_Distribution.png)
 
 As shown, a significant portion of the customer base falls into the 'Lost' and 'Potential Loyalist' categories, while a core group of 'Champions' and 'Loyal Customers' drives significant value.

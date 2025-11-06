@@ -5,7 +5,7 @@ We transformed the raw transaction log into a customer-centric DataFrame (`rfm_d
 
 ### Key Finding: Customer Segment Distribution
 * grafico de barras *  
-![Customer Segment Distribution](Customer_Segment_Distribution.png)
+![Customer Segment Distribution](notebooks/Customer_Segment_Distribution.png)
 
 As shown, a significant portion of the customer base falls into the 'Lost' and 'Potential Loyalist' categories, while a core group of 'Champions' and 'Loyal Customers' drives significant value.
 
